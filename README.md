@@ -27,7 +27,7 @@ Currently Working On : <a href="https://mywatchie.shop">Ecommerce website</a>
 
 
 <p align="center"> 
-Learning: React.js, Next.js, Data Structures, Three.js
+<h1>Learning:</h1> React.js, Next.js, Data Structures, Three.js
 </p>
 
 <h3 align="center">Contact Me</h3>

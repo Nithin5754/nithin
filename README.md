@@ -4,7 +4,7 @@
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
-<h3 align="center">Passionate MERN Stack Developer</h3>
+<h3 align="center">Passionate MERN Stack Self Taught Developer</h3>
 
 <h5 align="center">Crafting immersive web experiences and innovative applications. Skilled in JavaScript, C, Java, Node.js, Express, and MongoDB.</h5>
 

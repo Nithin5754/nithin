@@ -6,7 +6,7 @@
 
 <h3 align="center">Passionate MERN Stack Developer</h3>
 
-<h3 align="center">Crafting immersive web experiences and innovative applications. Skilled in JavaScript, C, Java, Node.js, Express, and MongoDB.</h3>
+<h5 align="center">Crafting immersive web experiences and innovative applications. Skilled in JavaScript, C, Java, Node.js, Express, and MongoDB.</h5>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nithin5754&label=Profile%20views&color=0e75b6&style=flat" alt="nithin5754">
@@ -20,9 +20,9 @@
 
 
 
-<p align="center"> 
- <h3 >Currently Working On :</h3> <a href="https://mywatchie.shop">Ecommerce website</a>
-</p>
+<h4 align="center"> 
+Currently Working On : <a href="https://mywatchie.shop">Ecommerce website</a>
+</h4>
 
 
 
